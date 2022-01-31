@@ -1,0 +1,11 @@
+/* remove the html scroll bar */
+body {
+	margin: 0;
+	overflow: hidden;
+}
+
+
+/* make the text over the Three.js scene */
+.button1 {
+	position: absolute;
+}
